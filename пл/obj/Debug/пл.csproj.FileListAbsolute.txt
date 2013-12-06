@@ -1,0 +1,24 @@
+C:\Users\1\Documents\SharpDevelop Projects\пл\пл\bin\Debug\пл.exe
+C:\Users\1\Documents\SharpDevelop Projects\пл\пл\bin\Debug\пл.pdb
+C:\Users\1\Documents\SharpDevelop Projects\пл\пл\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\1\Documents\SharpDevelop Projects\пл\пл\obj\Debug\пл.MainForm.resources
+C:\Users\1\Documents\SharpDevelop Projects\пл\пл\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\1\Documents\SharpDevelop Projects\пл\пл\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\1\Documents\SharpDevelop Projects\пл\пл\obj\Debug\пл.exe
+C:\Users\1\Documents\SharpDevelop Projects\пл\пл\obj\Debug\пл.pdb
+C:\Users\1\Desktop\пл\пл\bin\Debug\пл.exe
+C:\Users\1\Desktop\пл\пл\bin\Debug\пл.pdb
+C:\Users\1\Desktop\пл\пл\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\1\Desktop\пл\пл\obj\Debug\пл.MainForm.resources
+C:\Users\1\Desktop\пл\пл\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\1\Desktop\пл\пл\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\1\Desktop\пл\пл\obj\Debug\пл.exe
+C:\Users\1\Desktop\пл\пл\obj\Debug\пл.pdb
+E:\пл\пл\obj\Debug\ResolveAssemblyReference.cache
+E:\пл\пл\obj\Debug\пл.MainForm.resources
+E:\пл\пл\obj\Debug\GenerateResource.read.1.tlog
+E:\пл\пл\obj\Debug\GenerateResource.write.1.tlog
+E:\пл\пл\obj\Debug\пл.exe
+E:\пл\пл\bin\Debug\пл.exe
+E:\пл\пл\bin\Debug\пл.pdb
+E:\пл\пл\obj\Debug\пл.pdb
